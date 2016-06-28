@@ -1,4 +1,4 @@
-edited from branch side
+edited from branch side test
 public class TestTypes {
 
 	/**
