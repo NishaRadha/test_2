@@ -1,4 +1,4 @@
-ndcndsmedited from branch side test
+ndcndsmedited from branch side test good
 public class TestTypes {
 
 	/**
